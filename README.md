@@ -1,4 +1,4 @@
-OZEMPIC FORECASTING PROJECT
+<b> OZEMPIC FORECASTING PROJECT </b>
 
 Problem Statement : To develop an accurate forecasting model for predicting total sales volume across the U.S. regions for better resource planning, inventory management, and strategic decisions.
 
